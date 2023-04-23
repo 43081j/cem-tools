@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "google",
+    "prettier",
+    "plugin:@typescript-eslint/strict"
+  ],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "rules": {
+  }
+}
